@@ -54,13 +54,7 @@ lib/
 ├── core/             # Sabitler, temalar, network ve yardımcı fonksiyonlar (utils)
 ├── models/           # Kitap, kullanıcı ve alıntı veri modelleri
 ├── services/         # Firebase ve Google Books API servis entegrasyonları
-├── viewmodels/       # Durum yönetimi (State Management) katmanı
 ├── views/            # Ekranlar (Screens)
-│   ├── auth/         # Giriş ve kayıt ekranları
-│   ├── home/         # Ana akış ve alıntı akışı
-│   ├── book_detail/  # Kitap detay ve arama ekranları
-│   └── profile/      # Kullanıcı profili ve kütüphane listeleri
-└── widgets/          # Yeniden kullanılabilir özel arayüz bileşenleri
 ```
 
 ---
